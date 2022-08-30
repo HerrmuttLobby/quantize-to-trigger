@@ -2,7 +2,7 @@ HERMMUTT LOBBY's Quantize to trigger js 0.2
 
 Description :
 -------------
-Buffer received notes and outputs them together when a trigger not is sent
+Buffer received notes and outputs them together when a trigger note is sent
 to the device.
 
 Trigger note can be set via GUI.
